@@ -6,3 +6,4 @@ list = fr.readlines()
 fr.close()
 for l in list[len(list) - n:]:
     print(l)
+    
